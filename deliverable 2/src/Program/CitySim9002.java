@@ -13,44 +13,50 @@ import Domain.Validator;
  */
 public class CitySim9002 {
     public static String errorMessage = "Please enter one integer argument, seed";
+    public static int seed;
     
     public static void main(String[] args) {
-//        if (new Validator().validateArguments(args)) {
-//            return 0;
-//        }
-//        else {
-//            System.out.println(errorMessage);
-//            return -1;
-//        }
-
-          int seed = 3;
+          // Validate the input arguments
+          if (new Validator().validateArguments(args)) {
+                seed = Integer.parseInt(args[0]); // If the argument number is 1 and it
+          }else {                                 // is an integer, pass the validation
+                System.out.println(errorMessage); // Else exit the program
+                System.exit(0);
+          }
+          
           int visitorNumber = 5; // There will be five visitors.
           int visitorType = 4; // Four types: Student, Professor, Business Person, Blogger.
           int locationNumber = 5; // Including the way leaving the city.
           String visitor = "";
           String location = "";
           
-          RandomGenerator visitorGenerator = new RandomGenerator(seed,visitorType);
-          RandomGenerator locationGenerator = new RandomGenerator(seed,locationNumber);
+          RandomGenerator visitorGenerator = new RandomGenerator(seed,visitorType); // For randomly choose visitors
+          RandomGenerator locationGenerator = new RandomGenerator(seed,locationNumber); // For randomly choose locations
           
           Visitor visitors = new Visitor();
           Location locations = new Location();
           
           System.out.println("Welcome to CitySim! Your seed is " + seed);
           
+          // Loop to generate five visitors according to the requirements
           for(int i = 0; i < visitorNumber; i++){
-              visitor = visitors.getVisitor(visitorGenerator.generate());
+              // Randomly pick up a visitor
+              visitor = visitors.getVisitor(visitorGenerator.generate()); 
               System.out.println("Visitor " + (i + 1) + " is a " + visitor);
               
-              location = locations.getLocation(locationGenerator.generate());
+              // Randomly pick up a location
+              location = locations.getLocation(locationGenerator.generate()); 
               
-              while(location == "Left the city"){
+              // Cannot leave the city at the first visit
+              while(location == "Left the city"){ 
                   location = locations.getLocation(locationGenerator.generate());
               }
               
-              while(location != "Left the city"){
+              // Continue visiting until the visitor wants to leave
+              while(location != "Left the city"){ 
                   System.out.println("Visitor " + (i + 1) + " is going to " + location);
                   
+                  // Look up whether the visitor likes this location
                   if(visitors.getVisitorsPref(visitor).contains(location)){
                       System.out.println("Visitor " + (i + 1) + " did like " + location);
                   } else {
@@ -63,4 +69,5 @@ public class CitySim9002 {
               System.out.println("***");
           }
     }
+    
 }

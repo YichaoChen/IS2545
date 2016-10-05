@@ -17,11 +17,13 @@ public class RandomGenerator {
     private int upperLimit;
     Random r = new Random(seed);
     
+    // Get seed and limit
     public RandomGenerator(int seed, int upperLimit){
         this.seed = seed;
         this.upperLimit = upperLimit;
     }
     
+    // Generate a random number according to the seed and the upper limit received
     public int generate(){       
         return r.nextInt(upperLimit);
     }
