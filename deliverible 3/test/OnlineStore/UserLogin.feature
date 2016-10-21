@@ -7,20 +7,20 @@ Feature: User Login Action
                   Then Message displayed on the right upper corner should be Howdy, cyc
 
 
-        Scenario: Log out after successful Login
+        Scenario: Successful Log out after successful Login
                   Given User is on Your Account Page
                   When User logged in using username as cyc and password as testcycyic85
                   And User click on Log out                  
                   Then Message displayed on the page should be You are now logged out.
 
 
-        Scenario: Login with Invalid Credentials
+        Scenario: Cannot Login with Invalid Credentials
                   Given User is on Your Account Page
                   When User logged in using username as cyc and password as test                 
                   Then Message displayed on the page will be ERROR: Invalid login credentials.
 
         
-        Scenario: Login with blank Credentials
+        Scenario: Cannot Login with blank Credentials
                   Given User is on Your Account Page
                   When User logged in without typing the username and the password                 
                   Then Message displayed on the page must be Please enter your username and password.

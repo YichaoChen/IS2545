@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 
 /**
  *
- * @author AsphaltPanthers
+ * @author YichaoChen
  */
 @RunWith(Cucumber.class)
 public class TestRunner {

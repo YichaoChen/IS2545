@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="1" failures="0" hostname="CYCdeMacBook-Pro.local" name="OnlineStore.StepDefinitions" skipped="0" tests="1" time="1.088" timestamp="2016-10-20T01:22:17">
+<testsuite errors="1" failures="0" hostname="CYCdeMacBook-Pro.local" name="OnlineStore.StepDefinitions" skipped="0" tests="1" time="0.171" timestamp="2016-10-21T02:58:46">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="US" />
-    <property name="ant.file.DeliverableThree" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build.xml" />
+    <property name="ant.file.DeliverableThree" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build.xml" />
     <property name="javac.test.classpath" value="libs\cglib-nodep-3.2.4.jar:libs\client-combined-3.0.0-beta4-nodeps.jar:libs\commons-codec-1.10.jar:libs\commons-exec-1.3.jar:libs\commons-logging-1.2.jar:libs\gson-2.3.1.jar:libs\guava-19.0.jar:libs\hamcrest-core-1.3.jar:libs\hamcrest-library-1.3.jar:libs\httpclient-4.5.2.jar:libs\httpcore-4.4.4.jar:libs\httpmime-4.5.2.jar:libs\jna-4.1.0.jar:libs\jna-platform-4.1.0.jar:libs\junit-4.12.jar:libs\netty-3.5.7.Final.jar:libs\phantomjsdriver-1.3.0.jar:libs\cucumber-core-1.2.5.jar:libs\cucumber-java-1.2.5.jar:libs\cucumber-junit-1.2.5.jar:libs\cucumber-jvm-deps-1.0.5.jar:libs\gherkin-2.12.2.jar:build/classes:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/junit-4.12.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/hamcrest-core-1.3.jar" />
     <property name="libs.jsf20.maven-pom" value="" />
     <property name="libs.DataBindingME.src" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/mobility/sources/netbeans_databindingme-src.zip" />
@@ -13,7 +13,7 @@
     <property name="ant.core.lib" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant.jar" />
     <property name="javadoc.windowtitle" value="" />
     <property name="libs.jsp-compilation.javadoc" value="" />
-    <property name="user.dir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master" />
+    <property name="user.dir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master" />
     <property name="com.apple.mrj.application.apple.menu.about.name" value="NetBeans" />
     <property name="libs.javaee-api-7.0.src" value="" />
     <property name="java.vm.version" value="25.101-b13" />
@@ -62,7 +62,7 @@
     <property name="libs.j2me_common_ant.maven-pom" value="" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner OnlineStore.StepDefinitions skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/test/results/TEST-OnlineStore.StepDefinitions.xml crashfile=/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/junitvmwatcher5630595825321725835.properties propsfile=/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/junit8496697985734033502.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner OnlineStore.StepDefinitions skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/test/results/TEST-OnlineStore.StepDefinitions.xml crashfile=/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/junitvmwatcher6605258912613252918.properties propsfile=/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/junit113973533641140472.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -107,7 +107,7 @@
     <property name="javac.debug" value="true" />
     <property name="javadoc.splitindex" value="true" />
     <property name="file.separator" value="/" />
-    <property name="javac.includesfile.binary" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/null234580654" />
+    <property name="javac.includesfile.binary" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/null390023913" />
     <property name="libs.junit_4.maven-pom" value="" />
     <property name="mkdist.disabled" value="true" />
     <property name="javac.test.processorpath" value="libs\cglib-nodep-3.2.4.jar:libs\client-combined-3.0.0-beta4-nodeps.jar:libs\commons-codec-1.10.jar:libs\commons-exec-1.3.jar:libs\commons-logging-1.2.jar:libs\gson-2.3.1.jar:libs\guava-19.0.jar:libs\hamcrest-core-1.3.jar:libs\hamcrest-library-1.3.jar:libs\httpclient-4.5.2.jar:libs\httpcore-4.4.4.jar:libs\httpmime-4.5.2.jar:libs\jna-4.1.0.jar:libs\jna-platform-4.1.0.jar:libs\junit-4.12.jar:libs\netty-3.5.7.Final.jar:libs\phantomjsdriver-1.3.0.jar:libs\cucumber-core-1.2.5.jar:libs\cucumber-java-1.2.5.jar:libs\cucumber-junit-1.2.5.jar:libs\cucumber-jvm-deps-1.0.5.jar:libs\gherkin-2.12.2.jar:build/classes:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/junit-4.12.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/hamcrest-core-1.3.jar" />
@@ -121,7 +121,7 @@
     <property name="libs.hibernate4-persistencemodelgen.javadoc" value="" />
     <property name="libs.jaxb.javadoc" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/docs/jaxb-api-doc.zip" />
     <property name="libs.struts.classpath" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/antlr-2.7.2.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/bsf-2.3.0.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-beanutils-1.8.0.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-chain-1.2.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-digester-1.8.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-fileupload-1.1.1.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-io-1.1.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-logging-1.0.4.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/commons-validator-1.3.1.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/jstl-1.0.2.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/oro-2.0.8.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/standard-1.0.6.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-core-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-el-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-extras-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-faces-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-mailreader-dao-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-scripting-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-taglib-1.3.10.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/struts/struts-tiles-1.3.10.jar" />
-    <property name="javac.includes.binary" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/test/classes/OnlineStore/StepDefinitions.class" />
+    <property name="javac.includes.binary" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/test/classes/OnlineStore/StepDefinitions.class" />
     <property name="ant.home" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant" />
     <property name="libs.junit_4.src" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/docs/junit-4.12-sources.jar" />
     <property name="libs.testng.classpath" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/testng-6.8.1-dist.jar" />
@@ -135,7 +135,7 @@
     <property name="libs.spring-framework400.src" value="" />
     <property name="libs.PostgreSQLDriver.src" value="" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="basedir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master" />
+    <property name="basedir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master" />
     <property name="libs.jpa20-persistence.maven-pom" value="" />
     <property name="file.reference.phantomjsdriver-1.3.0.jar" value="libs\phantomjsdriver-1.3.0.jar" />
     <property name="jar.compress" value="false" />
@@ -185,7 +185,7 @@
     <property name="libs.spring-framework300.src" value="" />
     <property name="file.reference.cglib-nodep-3.2.4.jar" value="libs\cglib-nodep-3.2.4.jar" />
     <property name="libs.jstl.src" value="" />
-    <property name="empty.dir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/empty" />
+    <property name="empty.dir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/empty" />
     <property name="version-output" value="java version &quot;1.8" />
     <property name="test.binarytestincludes" value="" />
     <property name="libs.hibernate4-persistencemodelgen.src" value="" />
@@ -230,7 +230,7 @@
     <property name="javac.processorpath" value="libs\cglib-nodep-3.2.4.jar:libs\client-combined-3.0.0-beta4-nodeps.jar:libs\commons-codec-1.10.jar:libs\commons-exec-1.3.jar:libs\commons-logging-1.2.jar:libs\gson-2.3.1.jar:libs\guava-19.0.jar:libs\hamcrest-core-1.3.jar:libs\hamcrest-library-1.3.jar:libs\httpclient-4.5.2.jar:libs\httpcore-4.4.4.jar:libs\httpmime-4.5.2.jar:libs\jna-4.1.0.jar:libs\jna-platform-4.1.0.jar:libs\junit-4.12.jar:libs\netty-3.5.7.Final.jar:libs\phantomjsdriver-1.3.0.jar:libs\cucumber-core-1.2.5.jar:libs\cucumber-java-1.2.5.jar:libs\cucumber-junit-1.2.5.jar:libs\cucumber-jvm-deps-1.0.5.jar:libs\gherkin-2.12.2.jar" />
     <property name="libs.hamcrest.maven-pom" value="" />
     <property name="javac.compilerargs" value="" />
-    <property name="ant.file" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build.xml" />
+    <property name="ant.file" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build.xml" />
     <property name="libs.beans-binding.maven-pom" value="" />
     <property name="libs.hibernate4-support.javadoc" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/java/modules/ext/docs/javax.persistence-2.1.0-doc.zip" />
     <property name="libs.jsf12.classpath" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/jsf-1_2/commons-beanutils.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/jsf-1_2/commons-collections.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/jsf-1_2/commons-digester.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/jsf-1_2/commons-logging.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/jsf-1_2/jsf-api.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/modules/ext/jsf-1_2/jsf-impl.jar" />
@@ -249,7 +249,7 @@
     <property name="endorsed.classpath.cmd.line.arg" value="" />
     <property name="junit.available" value="true" />
     <property name="file.reference.commons-logging-1.2.jar" value="libs\commons-logging-1.2.jar" />
-    <property name="ant.file.DeliverableThree-impl" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/nbproject/build-impl.xml" />
+    <property name="ant.file.DeliverableThree-impl" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/nbproject/build-impl.xml" />
     <property name="libs.jsp-compiler.src" value="" />
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib" />
     <property name="have.sources" value="true" />
@@ -309,7 +309,7 @@
     <property name="libs.testng.maven-pom" value="" />
     <property name="ant.file.type.DeliverableThree-impl" value="file" />
     <property name="libs.jaxb.src" value="" />
-    <property name="work.dir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master" />
+    <property name="work.dir" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master" />
     <property name="libs.jaxb.classpath" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/modules/ext/jaxb/jaxb-impl.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/modules/ext/jaxb/jaxb-xjc.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/modules/ext/jaxb/jaxb1-impl.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/modules/ext/jaxb/activation.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/modules/ext/jaxb/api/jaxb-api.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/ide/modules/ext/jaxb/api/jsr173_1.0_api.jar" />
     <property name="do.depend" value="false" />
     <property name="dist.javadoc.dir" value="dist/javadoc" />
@@ -331,7 +331,7 @@
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/classes" />
     <property name="file.reference.client-combined-3.0.0-beta4-nodeps.jar" value="libs\client-combined-3.0.0-beta4-nodeps.jar" />
     <property name="javac.target" value="1.8" />
-    <property name="built-jar.properties" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/built-jar.properties" />
+    <property name="built-jar.properties" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/built-jar.properties" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="src.dir" value="src" />
     <property name="libs.jpa2-persistence.src" value="" />
@@ -376,7 +376,7 @@
     <property name="libs.jpa2-persistence.javadoc" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/java/modules/ext/docs/javax.persistence-2.1.0-doc.zip" />
     <property name="libs.DataBindingME.javadoc" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/mobility/modules/docs/netbeans_databindingme-api.zip" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
-    <property name="java.class.path" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/cglib-nodep-3.2.4.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/client-combined-3.0.0-beta4-nodeps.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/commons-codec-1.10.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/commons-exec-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/commons-logging-1.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/gson-2.3.1.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/guava-19.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/hamcrest-core-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/hamcrest-library-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/httpclient-4.5.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/httpcore-4.4.4.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/httpmime-4.5.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/jna-4.1.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/jna-platform-4.1.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/junit-4.12.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/netty-3.5.7.Final.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/phantomjsdriver-1.3.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/cucumber-core-1.2.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/cucumber-java-1.2.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/cucumber-junit-1.2.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/cucumber-jvm-deps-1.0.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/libs/gherkin-2.12.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/classes:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/junit-4.12.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/hamcrest-core-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible3/DeliverableThree-master/build/test/classes:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant-launcher.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant-junit.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant-junit4.jar" />
+    <property name="java.class.path" value="/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/cglib-nodep-3.2.4.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/client-combined-3.0.0-beta4-nodeps.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/commons-codec-1.10.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/commons-exec-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/commons-logging-1.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/gson-2.3.1.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/guava-19.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/hamcrest-core-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/hamcrest-library-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/httpclient-4.5.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/httpcore-4.4.4.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/httpmime-4.5.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/jna-4.1.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/jna-platform-4.1.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/junit-4.12.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/netty-3.5.7.Final.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/phantomjsdriver-1.3.0.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/cucumber-core-1.2.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/cucumber-java-1.2.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/cucumber-junit-1.2.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/cucumber-jvm-deps-1.0.5.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/libs/gherkin-2.12.2.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/classes:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/junit-4.12.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/platform/modules/ext/hamcrest-core-1.3.jar:/Users/cyc/Desktop/2016 Fall/QA/deliverible 3/DeliverableThree-master/build/test/classes:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant-launcher.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant-junit.jar:/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/extide/ant/lib/ant-junit4.jar" />
     <property name="libs.absolutelayout.src" value="" />
     <property name="libs.jpa20-persistence.classpath" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/java/modules/ext/eclipselink/javax.persistence_2.1.0.v201304241213.jar" />
     <property name="os.version" value="10.11.4" />
@@ -423,7 +423,7 @@
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/enterprise/docs/javaee-doc-api.jar" />
   </properties>
-  <testcase classname="OnlineStore.StepDefinitions" name="initializationError" time="0.026">
+  <testcase classname="OnlineStore.StepDefinitions" name="initializationError" time="0.006">
     <error message="No runnable methods" type="java.lang.Exception">java.lang.Exception: No runnable methods
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
 </error>
